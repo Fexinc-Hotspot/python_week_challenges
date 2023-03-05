@@ -5,4 +5,4 @@
 name=input('Enter your name..')
 age=input('Enter your age...')
 location=input('Enter your location...')
-print('hello',name,'yours',age,'years old','your location is at',location)
+print('Hello',name,'yours',age,'years old','& your location is at',location)
